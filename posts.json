@@ -1,0 +1,12 @@
+{
+  'first-post': {
+    'title': 'Title of fstpost',
+    'metadata': 'short desc'
+    'pic_path': '/posts/images/first-post.png'
+    'author': 'Anonymous',
+    'tags': [
+      '#NotRelated',
+      '#NonTech'
+    ]
+  }
+}
